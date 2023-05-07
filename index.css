@@ -1,0 +1,15 @@
+.bar-container {
+  height: 20px;
+  width: 50%;
+  background-color: grey;
+}
+
+.progress-bar {
+  background-color: green;
+  height: 100%;
+  width: 0%;
+}
+
+.button {
+  margin-top: 10px;
+}
